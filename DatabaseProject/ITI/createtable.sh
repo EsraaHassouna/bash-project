@@ -65,7 +65,7 @@ do
 done
 
 
-echo "table created succefully "
+echo "table created succefully"
 echo "Column;Datatype;PK" >> ./tname_meta
 
 
