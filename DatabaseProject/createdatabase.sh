@@ -10,6 +10,12 @@ do
 	read dbname 
 
 	if [[ -d $dbname ]];
+	then
+		echo "Name exisit! choose anothe DB name "	
+	else 
+		mkdir $dbname
+		(( flag++ ))
+	
 
 	fi 
 done
