@@ -12,7 +12,7 @@ read choise
 	
 	  1) ./createdatabase.sh ;; 
 	  2) ./listdb.sh ;;
-	  3) ./dropdatabase ;;
+	  3) ./dropdatabase.sh ;;
 	  *) echo "Wrong Choice! enter one two or three" ;
              ./choosefromlist.sh ;;	
 
