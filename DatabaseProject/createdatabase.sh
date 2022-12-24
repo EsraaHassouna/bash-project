@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 let flag=0
 
 #check if file exists

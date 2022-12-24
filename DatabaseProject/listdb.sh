@@ -4,9 +4,14 @@ subdircount=$(find . -not -path '*/.*' | wc -l)
 if (("$subdircount" == 1 ))
  then
      echo " This database does not exist"
- cd ..
+ ./ITI/chooseDBactivity.sh
+
 else
      echo "Displaying your List"
 ls
-cd ..
+
+./ITI/chooseDBactivity.sh
 fi
+
+
+
