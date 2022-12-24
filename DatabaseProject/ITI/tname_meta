@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Column;Datatype;PK
 Column;Datatype;PK
 Column;Datatype;PK
@@ -61,3 +62,5 @@ Column;Datatype;PK
 Column;Datatype;PK
 metadata
 Column;Datatype;PK
+=======
+>>>>>>> 67db699cc7a40bd1cebf4230f8b2a16eed8ad7d6
